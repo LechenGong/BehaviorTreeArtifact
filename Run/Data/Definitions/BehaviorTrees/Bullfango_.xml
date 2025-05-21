@@ -1,0 +1,14 @@
+<BehaviorTree Name="BullfangoPatrol">
+    <TreeNode Index="0" Parent="-1" Type="Selector">
+        <TreeNode Index="1" Parent="0" Type="Sequence">
+            <TreeNode Index="2" Parent="1" Type="Sequence">
+                <TreeNode Index="3" Parent="2" Type="BullfangoMoveTo" Destination="36.5f,0.625f,0.1f"/>
+                <TreeNode Index="4" Parent="2" Type="GameWait" Duration="3.f"/>
+            </TreeNode>
+            <TreeNode Index="5" Parent="1" Type="Sequence">
+                <TreeNode Index="6" Parent="5" Type="BullfangoMoveTo" Destination="43.f,-8.f,0.1f"/>
+                <TreeNode Index="7" Parent="5" Type="GameWait" Duration="3.f"/>
+            </TreeNode>
+        </TreeNode>
+    </TreeNode>
+</BehaviorTree>

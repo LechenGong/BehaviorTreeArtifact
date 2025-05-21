@@ -1,0 +1,20 @@
+<BehaviorTree Name="BullfangoTest">
+    <TreeNode Index="0" Parent="-1" Type="Selector">
+        <TreeNode Index="1" Parent="0" Type="RandomSelectorNoRepeat">
+            <TreeNode Index="2" Parent="1" Type="Sequence">
+                <TreeNode Index="5" Parent="2" Type="BullfangoMoveTo" Destination="36.5f,0.625f,0.1f"/>
+                <TreeNode Index="6" Parent="2" Type="GameWait" Duration="3.f"/>
+            </TreeNode>
+            <TreeNode Index="3" Parent="1" Type="Sequence">
+                <TreeNode Index="7" Parent="3" Type="BullfangoSleep" Duration="8.f"/>
+                <TreeNode Index="8" Parent="3" Type="GameWait" Duration="3.f"/>
+            </TreeNode>
+            <TreeNode Index="4" Parent="1" Type="Sequence">
+                <TreeNode Index="9" Parent="4" Type="BullfangoFindFood"/>
+                <TreeNode Index="10" Parent="4" Type="BullfangoMoveTo" DetectRange="1.0f"/>
+                <TreeNode Index="11" Parent="4" Type="BullfangoEat" />
+                <TreeNode Index="12" Parent="4" Type="GameWait" Duration="3.f"/>
+            </TreeNode>
+        </TreeNode>
+    </TreeNode>
+</BehaviorTree>

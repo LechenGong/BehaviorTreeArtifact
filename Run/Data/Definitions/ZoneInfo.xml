@@ -1,0 +1,187 @@
+<Objects>
+    <Object filePath="Data/Models/Assets/Hondou.fbx">
+        <Position x="0.0" y="0.0" z="30.0"/>
+        <Orientation x="0.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="11.3,0.0,21.96" length="3.205" width="18.3425" height="1.0"/>
+            <Collision shape="2" position="9.31,0.0,22.0175" orientation="0.0,9.0,0.0" length="1.7" width="18.3425" height="1.0"/>
+            <Collision shape="2" position="4.77,0.0,22.14" length="7.555" width="18.3425" height="1.0"/>
+            <Collision shape="2" position="8.11,-9.56,24.34" length="14.0" width="1.0" height="3.8725"/>
+            <Collision shape="2" position="8.11,9.68,24.34" length="14.0" width="1.0" height="3.8725"/>
+            <Collision shape="2" position="12.4,-5.06,22.84" length="1.0" width="3.25" height="0.75"/>
+            <Collision shape="2" position="12.4,4.4,22.84" length="1.0" width="3.25" height="0.75"/>
+            <Collision shape="2" position="11.47,4.3,22.84" length="0.75" width="1.0" height="0.75"/>
+            <Collision shape="2" position="11.95,1.83,24.35" length="0.75" width="0.75" height="3.8075"/>
+            <Collision shape="2" position="11.95,-1.85,24.35" length="0.795" width="0.75" height="3.8075"/>
+            <Collision shape="2" position="13.47,-6.27,21.73" orientation="0.0,23.0,0.0" length="1.25" width="5.935" height="0.2"/>
+            <Collision shape="2" position="13.47,6.04,21.73" orientation="0.0,23.0,0.0" length="1.25" width="5.935" height="0.2"/>
+            <Collision shape="2" position="0.0,0.98,24.66" length="1.0" width="18.3425" height="3.9975"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Kassya_left.fbx">
+        <Position x="36.0" y="-3.2508" z="0.0"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="34.27,18.86,4.18" orientation="92.0,0.0,0.0" length="3.0" width="12.75" height="8.56"/>
+            <Collision shape="2" position="43.43,20.51,4.18" orientation="79.0,0.0,0.0" length="1.0" width="6.5" height="8.56"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Kassya_right.fbx">
+        <Position x="36.6748" y="-24.9" z="0.0"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="36.68,-17.43,4.01" orientation="92.0,0.0,0.0" length="3.0" width="8.75" height="8.56"/>
+            <Collision shape="2" position="27.98,-16.19,4.01" orientation="82.0,0.0,0.0" length="1.0" width="8.5" height="8.56"/>
+            <Collision shape="2" position="43.90,-18.84,4.12" orientation="96.0,0.0,0.0" length="1.0" width="5.75" height="8.56"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Rouka1.fbx">
+        <Position x="14.746" y="-9.46" z="9.88"/>
+        <Orientation x="190.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="20.03,-14.37,3.67" orientation="72.0,0.0,0.0" length="1.0" width="7.75" height="8.56"/>
+            <Collision shape="2" position="12.30,8.37,4.12" orientation="-25.0,0.0,0.0" length="1.0" width="5.25" height="8.56"/>
+            <Collision shape="2" position="14.44,-10.44,4.12" orientation="38.0,0.0,0.0" length="1.0" width="6.78" height="8.56"/>
+            <Collision shape="2" position="16.31,-13.82,11.11" orientation="41.44,40.01,7.6" length="5.75" width="6.5" height="0.2"/>
+            <Collision shape="2" position="11.67,-4.38,4.12" orientation="13.0,0.0,0.0" length="1.0" width="6.78" height="8.56"/>
+            <Collision shape="2" position="11.16,2.64,4.12" orientation="-5.0,0.0,0.0" length="1.0" width="6.78" height="8.56"/>
+            <Collision shape="2" position="10.44,4.54,10.43" orientation="-11.67,43.49,1.35" length="5.75" width="6.5" height="0.2"/>
+            <Collision shape="2" position="12.17,-8.21,11.54" orientation="30.92,39.67,-4.21" length="5.75" width="6.5" height="0.2"/>
+            <Collision shape="2" position="12.78,10.70,10.84" orientation="-33.56,47.11,1.0" length="5.75" width="6.5" height="0.2"/>
+            <Collision shape="2" position="10.20,-1.17,11.08" orientation="5.92,44.67,-4.21" length="5.75" width="6.5" height="0.2"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Rouka2.fbx">
+        <Position x="34" y="-1.672" z="-0.35"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="58.53,10.96,4.31" orientation="31.0,0.0,0.0" length="1.0" width="5.25" height="8.56"/>
+            <Collision shape="2" position="55.45,15.36,4.31" orientation="39.0,0.0,0.0" length="1.0" width="5.25" height="8.56"/>
+            <Collision shape="2" position="50.05,18.68,3.98" orientation="73.0,0.0,0.0" length="1.0" width="7.25" height="8.56"/>
+            <Collision shape="2" position="61.11,6.49,4.31" orientation="28.0,0.0,0.0" length="1.0" width="5.0" height="8.56"/>
+            <Collision shape="2" position="61.34,-9.87,4.31" orientation="-18.0,0.0,0.0" length="1.0" width="5.0" height="8.56"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Yagari1.fbx">
+        <Position x="23.0626" y="23.458" z="23.46"/>
+        <Orientation x="-156.56" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/Yagari2.fbx">
+        <Position x="18.583" y="-19.41" z="18.372"/>
+        <Orientation x="-24.599" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/Filler.fbx">
+        <Position x="15.1" y="13.865" z="0.051"/>
+        <Orientation x="-47.308" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/Filler.fbx">
+        <Position x="59.24" y="-14.301" z="-0.094"/>
+        <Orientation x="145.46" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+        <Collision shape="2" position="51.8324,-16.9129,4.1207" orientation="109.0,0.0,0.0" length="1.0" width="10.5" height="8.56"/>
+            <Collision shape="2" position="23.1055,17.7733,4.1207" orientation="-66.0,0.0,0.0" length="1.0" width="10.5" height="8.56"/>
+            <Collision shape="2" position="15.8216,13.3001,4.1207" orientation="-44.0,0.0,0.0" length="1.0" width="6.75" height="8.56"/>
+            <Collision shape="2" position="59.0334,-13.0896,4.1207" orientation="134.0,0.0,0.0" length="1.0" width="6.75" height="8.56"/>
+            <Collision shape="2" position="26.84,18.88,4.1207," orientation="90.0,0.0,0.0" length="1.0" width="3.5" height="8.56"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Filler2.fbx">
+        <Position x="21.658" y="20.08" z="0.53"/>
+        <Orientation x="-65.585" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/Gate.fbx">
+        <Position x="68.814" y="-1.6732" z="0.0"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="62.13,-1.836,4.12" length="1.0" width="12.25" height="8.56"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/BarrierHold.fbx">
+        <Position x="36.503" y="0.0" z="0.0"/>
+        <Orientation x="0.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <Collision shape="2" position="36.48,0.0,-0.33" length="2.25" width="35.25" height="1.0"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Ground_far.fbx">
+        <Position x="46.565" y="-12.096" z="0.0"/>
+        <Orientation x="-94.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/Ground.fbx">
+        <Position x="33.176" y="-0.576362" z="0.0"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+        <Collisions>
+            <!--<Collision shape="2" position="36.483,0,-0.322" orientation="0.0,0.0,0.0" length="55.58" width="40.0" height="1.0"/>
+            -->
+            <Collision shape="2" position="26.803,16.63,-0.412" orientation="-0.54757,-1.1689,1.14886" length="3.741" width="4.337" height="1.0"/>
+            <Collision shape="2" position="26.728,-2.64,-0.4624" orientation="0.0,-1.5,0.0" length="3.865" width="10.77" height="1.0"/>
+            <Collision shape="2" position="56.07,-13.06,-0.54" orientation="-24.99,-1.81,0.85" length="8.0" width="13.75" height="1.0"/>
+            <Collision shape="2" position="17.458,9.01,-0.2466" orientation="0.0,7.0,0.0" length="2.54" width="3.5" height="1.0"/>
+            <Collision shape="2" position="53.39,14.485,-0.599" orientation="35.027,-3.0,-1.4847" length="8.0" width="7.75" height="1.0"/>
+            <Collision shape="2" position="48.58,17.4,-0.76" orientation="-0.0046,-1.867,0.6274" length="5.5" width="4.5" height="1.0"/>
+            <Collision shape="2" position="43.19,0.0,-0.64" orientation="0.0,4.0,0.0" length="5.25" width="40.0" height="1.0"/>
+            <Collision shape="2" position="51.6472,8.2415,-0.8624" orientation="23.35,-10.088,-0.7210" length="2.0" width="6.5" height="1.0"/>
+            <Collision shape="2" position="26.71357,11.22,-0.472" orientation="0.0,-1.28,0.115" length="3.91" width="6.48" height="1.0"/>
+            <Collision shape="2" position="21.77,-3.63,-0.452" orientation="0.0,1.0,0.0" length="6.05" width="7.25" height="1.0"/>
+            <Collision shape="2" position="17.48,12.872,-0.265" orientation="0.0,7.0,-0.08" length="2.5673" width="4.25" height="1.0"/>
+            <Collision shape="2" position="39.31,0.0,-0.46" orientation="0.0,0.0,0.0" length="3.25" width="35.25" height="1.0"/>
+            <Collision shape="2" position="30.26,0.0,-0.44" orientation="0.0,1.0,0.0" length="3.25" width="35.25" height="1.0"/>
+            <Collision shape="2" position="21.77,-13.42,-0.43" orientation="0.0,1.5,0.0" length="6.0" width="7.0" height="1.0"/>
+            <Collision shape="2" position="33.53,0.0,-0.44" orientation="0.0,0.0,0.0" length="3.25" width="35.25" height="1.0"/>
+            <Collision shape="2" position="26.72,-11.89,-0.472" orientation="0.0,0.0,0.0" length="3.9" width="8.0" height="1.0"/>
+            <Collision shape="2" position="17.463,3.64,-0.24.7" orientation="0.0,7.18555,0.0" length="2.5558" width="7.25" height="1.0"/>
+            <Collision shape="2" position="53.77,-0.64,-0.69" orientation="0.0,-7.0,0.0" length="2.23" width="13.5" height="1.0"/>
+            <Collision shape="2" position="51.6,-11.12,-0.80" orientation="-24.14,-9.0,1.0" length="2.0" width="3.0" height="1.0"/>
+            <Collision shape="2" position="13.6,3.20,0.28131" orientation="0.0,8.0,0.0" length="5.25" width="20.75" height="1.0"/>
+            <Collision shape="2" position="54.56,8.28,-0.59" orientation="25.0,-3.0,-1.0" length="3.75" width="4.5" height="1.0"/>
+            <Collision shape="2" position="26.725,5.35,-0.472" orientation="0.0,-1.5,0.0" length="3.86" width="5.25" height="1.0"/>
+            <Collision shape="2" position="50.46,-13.66,-0.85" orientation="-24.14,-9.0,1.0" length="2.0" width="2.61" height="1.0"/>
+            <Collision shape="2" position="21.863,16.6,-0.41" orientation="-0.0153,0.788,1.112" length="6.15" width="4.25" height="1.0"/>
+            <Collision shape="2" position="21.77,6.86,-0.46" orientation="0.0,1.0,0.0" length="6.0" width="15.25" height="1.0"/>
+            <Collision shape="2" position="52.82,-8.39,-0.76" orientation="-24.14,-9.0,0.0" length="2.0" width="3.0" height="1.0"/>
+            <Collision shape="2" position="48.61,-17.41,-0.78" orientation="0.0,-1.0,-1.0" length="5.5" width="4.5" height="1.0"/>
+            <Collision shape="2" position="14.99,12.88,-0.42" orientation="0.0,-3.0,-4.0" length="2.5" width="4.25" height="1.0"/>
+            <Collision shape="2" position="58.83,0.0,-0.43" orientation="0.0,-2.0,0.0" length="8.0" width="30.25" height="1.0"/>
+            <Collision shape="2" position="21.77,-8.66,-0.46" orientation="0.0,1.0,0.0" length="6.0" width="4.75" height="1.0"/>
+            <Collision shape="2" position="15.763,-10.66,-0.012" orientation="0.433,7.2,-0.26" length="6.0" width="7.0" height="1.0"/>
+            <Collision shape="2" position="46.15,0.0,-0.84" orientation="0.0,0.0,0.0" length="16.75" width="30.25" height="1.0"/>
+            <Collision shape="2" position="17.45,-3.61,-0.24215" orientation="0.0,7.32,0.0" length="2.53" width="7.25" height="1.0"/>
+            <Collision shape="2" position="69.46,0.0,-0.31" length="14.5" width="10.0" height="1.0"/>
+        </Collisions>
+    </Object>
+    <Object filePath="Data/Models/Assets/Torii.fbx">
+        <Position x="11.851" y="0.0" z="23.0"/>
+        <Orientation x="180.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/mushroom.fbx">
+        <Position x="13.0" y="4.6" z="0.86"/>
+        <Orientation x="0.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/mushroom.fbx">
+        <Position x="32.67" y="-14.65" z="0.0"/>
+        <Orientation x="0.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+    <Object filePath="Data/Models/Assets/mushroom.fbx">
+        <Position x="39.21" y="17.07" z="0.04"/>
+        <Orientation x="0.0" y="0.0" z="0.0"/>
+        <Scale x="0.005" y="0.005" z="0.005"/>
+    </Object>
+</Objects>
+

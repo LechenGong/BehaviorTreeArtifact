@@ -1,0 +1,4 @@
+<CharacterDefinition>
+    <SkeletalMeshPath>Data/Models/FBXs/Rathian/Xml/SkeletalMesh.xml</SkeletalMeshPath>
+    <AnimationPath>Data/Models/FBXs/Rathian/Xml/</AnimationPath>
+</CharacterDefinition>

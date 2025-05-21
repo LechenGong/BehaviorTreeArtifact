@@ -1,0 +1,4 @@
+<CharacterDefinition>
+    <SkeletalMeshPath>Data/Models/FBXs/Bullfango/Xml/SkeletalMesh.xml</SkeletalMeshPath>
+    <AnimationPath>Data/Models/FBXs/Bullfango/Xml/</AnimationPath>
+</CharacterDefinition>

@@ -1,0 +1,5 @@
+<QuestInfo>
+    <SpawnInfo name="Paladin" amount="1"/>
+    <SpawnInfo name="Bullfango" amount="1"/>
+    <SpawnInfo name="Rathian" amount="1"/>
+</QuestInfo>

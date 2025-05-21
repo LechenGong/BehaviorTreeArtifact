@@ -1,0 +1,4 @@
+<CharacterDefinition>
+    <SkeletalMeshPath>Data/Models/FBXs/Paladin/Xml/SkeletalMesh.xml</SkeletalMeshPath>
+    <AnimationPath>Data/Models/FBXs/Paladin/Xml/Animation/</AnimationPath>
+</CharacterDefinition>
